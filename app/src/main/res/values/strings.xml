@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CogniCare</string>
+    <string name="welcome_user">Welcome %s</string>
+    <string name="your_reports">Your Reports</string>
+    <string name="name">Name   -   %S</string>
+    <string name="age">Age    -   %S</string>
+    <string name="gender">Gender - %S</string>
+    <string name="date">Date   - %S</string>
+    <string name="vals">%S %.0f</string>
+    <string name="comment">Comment - %S</string>
+
+</resources>
